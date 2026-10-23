@@ -1,0 +1,12 @@
+package.json.{
+  "name": "voidcore-api",
+  "version": "1.0.0",
+  "description": "VOIDCORE verification API demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
